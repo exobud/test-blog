@@ -1,0 +1,3 @@
+[submodule "themes/overdose/source/libs/noto-sans-kr"]
+	path = themes/overdose/source/libs/noto-sans-kr
+	url = https://github.com/hyunseob/noto-sans-kr
